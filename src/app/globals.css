@@ -13,3 +13,8 @@
   z-index: -1;
 }
 
+
+body {
+  margin: 0;
+  background: radial-gradient(#000000, #000000);
+}
