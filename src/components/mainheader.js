@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Mainheader() {
   return (
-    <header className="text-white flex items-center justify-between p-5">
+    <header className="text-white flex items-center bg-black justify-between p-5">
       <Link href={"/"} className="flex gap-2 items-center">
         <Image
           src={logoImg}

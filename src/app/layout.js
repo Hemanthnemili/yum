@@ -1,8 +1,5 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
 import Mainheader from "@/components/mainheader";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Yum App",
